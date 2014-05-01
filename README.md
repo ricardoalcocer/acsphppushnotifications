@@ -25,3 +25,6 @@ Credit goes to [patrickjongmans](http://twitter.com/patrickjongmans) for the ori
 # License
 
 MIT - [http://alco.mit-license.org](http://alco.mit-license.org)
+
+# Other
+You can also [send ACS Push Notifications with Perl](http://ulizama.com/2014/05/using-perl-to-send-acs-push-notifications/).
